@@ -26,3 +26,4 @@ aws s3 cp MXvideos.csv s3://de-youtube-raw-eu-central-1-dev/youtube/raw_statisti
 aws s3 cp RUvideos.csv s3://de-youtube-raw-eu-central-1-dev/youtube/raw_statistics/region=ru/ <br>
 aws s3 cp USvideos.csv s3://de-youtube-raw-eu-central-1-dev/youtube/raw_statistics/region=us/ <br>
 
+![Screenshot (716)](https://user-images.githubusercontent.com/20297474/196549659-006a62e3-c355-4b18-b2ef-a58acace1e9c.png)
